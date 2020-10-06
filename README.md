@@ -1,2 +1,2 @@
 # hello-world
-Demo repo for examples.
+Demo GitHub repository.
